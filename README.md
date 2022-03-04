@@ -4,7 +4,7 @@ QuickEstimate is a novel app that makes it easier for insurance estimaters to ge
 
 Sumbisson Film: https://www.youtube.com/watch?v=ridj90rRs
 
-Press: https://patch.com/new-jersey/warren/warren-student-wins-3rd-place-nj-7-congressional-app-challenge, https://www.newjerseyhills.com/echoes-sentinel/news/local-students-take-prizes-in-congressional-app-challenge/article_3e209dc9-c20f-5f79-bf8a-49440a0643d3.html, https://www.newsbreak.com/news/2514409863798/local-students-take-prizes-in-congressional-app-challenge, https://flipboard.com/@patch/new-jersey-patch-accmqs8qz/warren-student-wins-3rd-place-in-nj-7-congressional-app-challenge/a-TGXHEZC1SpKobxqisRNmSA%3Aa%3A2429204041-57078a880a%2Fpatch.com
+Press: https://patch.com/new-jersey/warren/warren-student-wins-3rd-place-nj-7-congressional-app-challenge, https://www.newjerseyhills.com/echoes-sentinel/news/local-students-take-prizes-in-congressional-app-challenge/article_3e209dc9-c20f-5f79-bf8a-49440a0643d3.html, https://www.newsbreak.com/news/2514409863798/local-students-take-prizes-in-congressional-app-challenge, https://flipboard.com/@patch/new-jersey-patch-accmqs8qz/warren-student-wins-3rd-place-in-nj-7-congressional-app-challenge/a-TGXHEZC1SpKobxqisRNmSA%3Aa%3A2429204041-57078a880a%2Fpatch.com, https://malinowski.house.gov/media/press-releases/representative-malinowski-announces-winners-2021-nj-07-congressional-app
 
 Live Demo to Tom Malinowski: https://www.youtube.com/watch?v=WyuXilPl_wk
 
